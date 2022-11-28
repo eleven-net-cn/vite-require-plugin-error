@@ -13,3 +13,7 @@ Even if there is not `require` syntax.
 ## Done
 
 Worked fine with `^1.1.10`
+
+## New issues about Tree-Shaking
+
+`src/main.ts` code line 7
