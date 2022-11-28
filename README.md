@@ -9,3 +9,7 @@ Terminal Error Logs:
 ```
 
 Even if there is not `require` syntax.
+
+## Done
+
+Worked fine with `^1.1.10`
